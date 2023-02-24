@@ -1,2 +1,1 @@
-"# Techie-Zone" 
-"# TechieZone.github.io" 
+TechieZone.github.io
